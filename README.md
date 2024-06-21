@@ -2,7 +2,6 @@
 
 A feature-rich calculator built using C# and .NET Framework. This calculator provides basic arithmetic operations as well as advanced mathematical functions and handles the priority of operations (PEMDAS/BODMAS).
 
-![Calculator Screenshot](Screenshot 2024-06-21 230559.png)
 
 ## Features
 
