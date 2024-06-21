@@ -16,5 +16,6 @@ A feature-rich calculator built using C# and .NET Framework. This calculator pro
 
 1. **Clone the repository:**
    ```bash
-    https://github.com/IsaacBh1/Calculator.git
-     cd your-repository
+   https://github.com/IsaacBh1/Calculator.git
+   cd Calculator
+
